@@ -1,0 +1,5 @@
+{
+  "ambientDependencies": {
+    "requirejs": "file:../../global/typings.json"
+  }
+}
