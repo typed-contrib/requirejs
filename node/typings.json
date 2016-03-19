@@ -1,0 +1,5 @@
+{
+    "name": "requirejs",
+    "version": "^2.2.0",
+    "main": "index.d.ts"
+}
